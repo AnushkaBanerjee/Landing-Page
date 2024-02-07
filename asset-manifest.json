@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.03999e88.css",
+    "main.js": "/static/js/main.ee5e44b8.js",
+    "static/js/592.52e5f212.chunk.js": "/static/js/592.52e5f212.chunk.js",
+    "static/media/Violin.png": "/static/media/Violin.ad7f014aafe30b9fa870.png",
+    "static/media/pinkBanner.png": "/static/media/pinkBanner.661ad2af9e45576adf0c.png",
+    "static/media/communicate.jpg": "/static/media/communicate.317f085e7bb1943266db.jpg",
+    "static/media/logo_1.png": "/static/media/logo_1.f8c1ae72c936ae5f75dc.png",
+    "static/media/collaborate .jpg": "/static/media/collaborate .6a8082c3097299d7f947.jpg",
+    "static/media/manage.jpg": "/static/media/manage.e3971841a2a0fd580ef0.jpg",
+    "static/media/CentraNo2-Bold.ttf": "/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/footer-bg.png": "/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/contact-img.svg": "/static/media/contact-img.62aa99e0f3b968b5d1ce9eb047f34fc7.svg",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/nav-icon3.svg": "/static/media/nav-icon3.72cef43bc93b04f52e29f022ef720f8b.svg",
+    "static/media/nav-icon1.svg": "/static/media/nav-icon1.dff40ae802524d8fc0cbce3f312abe4f.svg",
+    "index.html": "/index.html",
+    "static/media/nav-icon2.svg": "/static/media/nav-icon2.a39f0e5e47e442dafcc5c9c320f19f6f.svg",
+    "main.03999e88.css.map": "/static/css/main.03999e88.css.map",
+    "main.ee5e44b8.js.map": "/static/js/main.ee5e44b8.js.map",
+    "592.52e5f212.chunk.js.map": "/static/js/592.52e5f212.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03999e88.css",
+    "static/js/main.ee5e44b8.js"
+  ]
+}
